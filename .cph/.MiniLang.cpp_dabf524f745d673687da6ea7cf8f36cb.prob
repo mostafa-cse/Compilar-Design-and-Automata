@@ -1,0 +1,1 @@
+{"name":"Local: MiniLang","url":"/workspaces/Compilar-Design-and-Automata/MiniLang.cpp","tests":[{"id":1775498535656,"input":"int a;","output":""},{"id":1775498640988,"input":"int a;","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/Compilar-Design-and-Automata/MiniLang.cpp","group":"local","local":true}
